@@ -1,28 +1,9 @@
 # عالم الدراما — Drama World Web
 
-نسخة ويب مطابقة قدر الإمكان لتطبيق **عالم الدراما V4.2f**، مبنية من واجهات ومسارات التطبيق الأصلية.
-
-## المزايا المنقولة
-
-- الصفحة الرئيسية والـ Hero والأقسام الأفقية.
-- الأفلام والمسلسلات والبث المباشر والممثلون.
-- صفحات التفاصيل، المواسم والحلقات، وفريق العمل والاقتراحات.
-- البحث والفلاتر والقائمة وسجل المشاهدة والمفضلة.
-- قائمة سيرفرات المشاهدة والتنزيل بأسلوب التطبيق.
-- مشغل ويب مخصص مع HLS، تقديم/ترجيع، السرعة، PiP وملء الشاشة.
-- Backend وسيط في `api/drama.js` يستخدم نفس مسارات محتوى التطبيق وRemote Config.
-- PWA ودعم واجهة عربية RTL متجاوبة للجوال والكمبيوتر.
-
-## البناء
-
-```bash
-npm run build
-```
-
-الناتج يكون داخل `dist/` وجاهز للنشر على Vercel.
+نسخة ويب لتطبيق **عالم الدراما V4.2f** مبنية من واجهات ومسارات التطبيق الأصلية.
 
 ## Vercel
 
-Production alias:
+Production: https://dramaworld-awoadak-glitchs-projects.vercel.app
 
-`https://dramaworld-awoadak-glitchs-projects.vercel.app`
+Validation preview: https://dramaworld-2hsvs1tbf-awoadak-glitchs-projects.vercel.app
